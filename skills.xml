@@ -1,0 +1,28 @@
+<skills>
+	<skill>Basic theory</skill>
+	<skill>Client-server architecture</skill>
+	<skill>HTTP methods</skill>
+	<skill>HTTP code responses</skill>
+	<skill>Structure of HTTP methods and responses</skill>
+	<skill>JSON, XML</skill>
+	<skill>Testing Api via Postman</skill>
+	<skill>Reading logs from remote server</skill>
+	<skill>Charles, Fiddler</skill>
+	<skill>Dev Tools</skill>
+	<skill>VPN</skill>
+	<skill>Mobile testing</skill>
+	<skill>IOS, Android guidelines</skill>
+	<skill>Building ios app in XCode</skill>
+	<skill>Building Android app in Android Studio</skill>
+	<skill>ADB</skill>
+	<skill>Proxy and VPN on Android and IOS devices</skill>
+	<skill>Charles and Fiddler for mobile devices</skill>
+	<skill>Command line Linux</skill>
+	<skill>Bash scripts</skill>
+	<skill>Remote servers</skill>
+	<skill>SQL</skill>
+	<skill>Postgres</skill>
+	<skill>Redis</skill>
+	<skill>Jmeter</skill>
+	<skill>Scrum</skill>
+</skills>
