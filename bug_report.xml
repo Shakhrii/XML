@@ -1,1 +1,27 @@
-
+	<bug>
+		<summary>Profile page: The profile photo hasn't been edited</summary>
+		<project>Project1</project>
+		<component>Module1</component>
+		<build_version>1.10</build_version>
+		<description>
+			<str>
+				<step>Open the profile page</step>
+				<step>Click the Edit button</step>
+				<step>Choose the photo from your compute</step>
+				<step>Press Ok</step>
+			</str>
+			<result>The photo hasn't been edited</result>
+			<expected_result>The photo has been uploaded and profile photo has been changed</expected_result>
+		</description>
+		<priority>Low</priority>
+		<severity>Minor</severity>
+		<status>Assigned</status>
+		<environment>Mac Os Big Sur version 11.1 Safari</environment>
+		<author>Shakhri Ramaldanova</author>
+		<assigned_to>Shakhri Ramaldanova</assigned_to>
+		<addition>
+			<attachment>
+				https://yandex.ru/images/search?from=tabbar&amp;text=%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%20%D0%B4%D0%BE%D0%BD%D1%86%D0%BE&amp;pos=2&amp;img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FEZQ4nShXQAEy_XN.jpg&amp;rpt=simage&amp;lr=118515
+			</attachment>
+		</addition>
+	</bug>
